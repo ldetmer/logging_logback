@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [0.132.0-alpha](https://github.com/ldetmer/logging_logback/compare/v0.131.14-alpha...v0.132.0-alpha) (2025-01-02)
+
+
+### Bug Fixes
+
+* Update README.md ([65232f0](https://github.com/ldetmer/logging_logback/commit/65232f06aa54befc1234fe292f2539ea3428d6cf))
+
 ## 1.0.0 (2025-01-02)
 
 
