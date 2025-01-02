@@ -1,4 +1,4 @@
-test# Google Cloud Logging Logback Appender Client for Java
+# Google Cloud Logging Logback Appender Client for Java
 
 Java idiomatic client for [Cloud Logging Logback Appender][product-docs].
 
